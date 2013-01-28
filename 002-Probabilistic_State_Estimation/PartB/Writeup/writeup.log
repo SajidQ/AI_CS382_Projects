@@ -1,0 +1,618 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011/MacPorts 2011_5) (format=pdflatex 2012.2.8)  24 APR 2012 18:14
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**writeup
+(./writeup.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, cz
+ech, slovak, dutch, ukenglish, usenglishmax, basque, french, german-x-2009-06-1
+9, ngerman-x-2009-06-19, german, ngerman, swissgerman, monogreek, greek, ancien
+tgreek, ibycus, italian, polish, portuguese, spanish, catalan, galician, loaded
+.
+(/opt/local/share/texmf-texlive-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/opt/local/share/texmf-texlive-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/opt/local/share/texmf-texlive-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/opt/local/share/texmf-texlive-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/opt/local/share/texmf-texlive-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/opt/local/share/texmf-texlive-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/opt/local/share/texmf-texlive-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/opt/local/share/texmf-texlive-dist/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/opt/local/share/texmf-texlive-dist/tex/generic/babel/english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+(/opt/local/share/texmf-texlive-dist/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count91
+\U@D=\dimen111
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/opt/local/share/texmf-texlive-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/opt/local/share/texmf-texlive-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(/opt/local/share/texmf-texlive-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/opt/local/share/texmf-texlive-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/opt/local/share/texmf-texlive-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count92
+))
+(/opt/local/share/texmf-texlive-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/opt/local/share/texmf-texlive-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/opt/local/share/texmf-texlive-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/opt/local/share/texmf-texlive-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/opt/local/share/texmf-texlive-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/opt/local/share/texmf-texlive-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/opt/local/share/texmf-texlive-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen114
+))
+(/opt/local/share/texmf-texlive-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen115
+)
+(/opt/local/share/texmf-texlive-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen116
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip10
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks17
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks18
+\eqnshift@=\dimen117
+\alignsep@=\dimen118
+\tagshift@=\dimen119
+\tagwidth@=\dimen120
+\totwidth@=\dimen121
+\lineht@=\dimen122
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/opt/local/share/texmf-texlive-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/opt/local/share/texmf-texlive-dist/tex/latex/caption/caption.sty
+Package: caption 2010/01/09 v3.1m Customizing captions (AR)
+
+(/opt/local/share/texmf-texlive-dist/tex/latex/caption/caption3.sty
+Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
+\captionmargin=\dimen123
+\captionmargin@=\dimen124
+\captionwidth=\dimen125
+\caption@indent=\dimen126
+\caption@parindent=\dimen127
+\caption@hangindent=\dimen128
+)
+\c@ContinuedFloat=\count105
+)
+\c@KVtest=\count106
+\sf@farskip=\skip46
+\sf@captopadj=\dimen129
+\sf@capskip=\skip47
+\sf@nearskip=\skip48
+\c@subfigure=\count107
+\c@subfigure@save=\count108
+\c@lofdepth=\count109
+\c@subtable=\count110
+\c@subtable@save=\count111
+\c@lotdepth=\count112
+\sf@top=\skip49
+\sf@bottom=\skip50
+)
+(./writeup.aux
+
+LaTeX Warning: Label `fig:simple_sensing' multiply defined.
+
+)
+\openout1 = `writeup.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/opt/local/share/texmf-texlive-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count113
+\scratchdimen=\dimen130
+\scratchbox=\box28
+\nofMPsegments=\count114
+\nofMParguments=\count115
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen131
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
+\everyMPtoPDFconversion=\toks22
+) (/opt/local/share/texmf-texlive-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+
+(/opt/local/share/texmf-texlive-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/opt/local/share/texmf-texlive-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/opt/local/share/texmf-texlive-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+
+(/opt/local/share/texmf-texlive-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+))
+(/opt/local/share/texmf-texlive-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+(/opt/local/share/texmf-texlive-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+(/opt/local/share/texmf-texlive-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/opt/local/share/texmf-texlive-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption3 Info: subfig package 1.2 or 1.3 is loaded.
+LaTeX Info: Redefining \subref on input line 19.
+Package caption Info: End \AtBeginDocument code.
+
+[1
+
+{/opt/local/var/db/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./writeup.toc)
+\tf@toc=\write3
+\openout3 = `writeup.toc'.
+
+[1
+
+] <images/interface_agent.png, id=13, 501.875pt x 522.95375pt>
+File: images/interface_agent.png Graphic file (type png)
+
+<use images/interface_agent.png>
+Package pdftex.def Info: images/interface_agent.png used on input line 38.
+(pdftex.def)             Requested size: 226.48395pt x 235.9973pt.
+
+<images/map_simple.png, id=14, 503.8825pt x 522.95375pt>
+File: images/map_simple.png Graphic file (type png)
+
+<use images/map_simple.png>
+Package pdftex.def Info: images/map_simple.png used on input line 49.
+(pdftex.def)             Requested size: 181.18439pt x 188.03976pt.
+
+<images/map_star.png, id=15, 504.88625pt x 522.95375pt>
+File: images/map_star.png Graphic file (type png)
+
+<use images/map_star.png>
+Package pdftex.def Info: images/map_star.png used on input line 50.
+(pdftex.def)             Requested size: 181.18439pt x 187.66473pt.
+ [2 <./images/interface_agent.png>]
+<images/equations.png, id=20, 484.81125pt x 80.3pt>
+File: images/equations.png Graphic file (type png)
+ <use images/equations.png>
+Package pdftex.def Info: images/equations.png used on input line 62.
+(pdftex.def)             Requested size: 317.07614pt x 52.5203pt.
+
+<images/equation_2.png, id=21, 679.53876pt x 35.13126pt>
+File: images/equation_2.png Graphic file (type png)
+
+<use images/equation_2.png>
+Package pdftex.def Info: images/equation_2.png used on input line 76.
+(pdftex.def)             Requested size: 452.9679pt x 23.41772pt.
+
+<images/simple_1.png, id=22, 502.87875pt x 501.875pt>
+File: images/simple_1.png Graphic file (type png)
+
+<use images/simple_1.png>
+Package pdftex.def Info: images/simple_1.png used on input line 85.
+(pdftex.def)             Requested size: 135.89174pt x 135.61526pt.
+
+<images/simple_2.png, id=23, 500.87125pt x 502.87875pt>
+File: images/simple_2.png Graphic file (type png)
+
+<use images/simple_2.png>
+Package pdftex.def Info: images/simple_2.png used on input line 86.
+(pdftex.def)             Requested size: 135.89174pt x 136.43898pt.
+
+<images/simple_3.png, id=24, 503.8825pt x 502.87875pt>
+File: images/simple_3.png Graphic file (type png)
+
+<use images/simple_3.png>
+Package pdftex.def Info: images/simple_3.png used on input line 87.
+(pdftex.def)             Requested size: 135.89174pt x 135.61794pt.
+
+<images/simple_4.png, id=25, 502.87875pt x 500.87125pt>
+File: images/simple_4.png Graphic file (type png)
+
+<use images/simple_4.png>
+Package pdftex.def Info: images/simple_4.png used on input line 89.
+(pdftex.def)             Requested size: 135.89174pt x 135.34404pt.
+
+<images/simple_5.png, id=26, 502.87875pt x 501.875pt>
+File: images/simple_5.png Graphic file (type png)
+
+<use images/simple_5.png>
+Package pdftex.def Info: images/simple_5.png used on input line 90.
+(pdftex.def)             Requested size: 135.89174pt x 135.61526pt.
+ <images/star_1.png, id=27, 503.8825pt x 502.87875pt>
+File: images/star_1.png Graphic file (type png)
+
+<use images/star_1.png>
+Package pdftex.def Info: images/star_1.png used on input line 102.
+(pdftex.def)             Requested size: 135.89174pt x 135.61794pt.
+ <images/star_2.png, id=28, 503.8825pt x 503.8825pt>
+File: images/star_2.png Graphic file (type png)
+
+<use images/star_2.png>
+Package pdftex.def Info: images/star_2.png used on input line 103.
+(pdftex.def)             Requested size: 135.89174pt x 135.88863pt.
+ <images/star_3.png, id=29, 503.8825pt x 504.88625pt>
+File: images/star_3.png Graphic file (type png)
+
+<use images/star_3.png>
+Package pdftex.def Info: images/star_3.png used on input line 104.
+(pdftex.def)             Requested size: 135.89174pt x 136.15932pt.
+ <images/star_4.png, id=30, 505.89pt x 501.875pt>
+File: images/star_4.png Graphic file (type png)
+
+<use images/star_4.png>
+Package pdftex.def Info: images/star_4.png used on input line 106.
+(pdftex.def)             Requested size: 135.89174pt x 134.81117pt.
+ <images/star_5.png, id=31, 502.87875pt x 500.87125pt>
+File: images/star_5.png Graphic file (type png)
+
+<use images/star_5.png>
+Package pdftex.def Info: images/star_5.png used on input line 107.
+(pdftex.def)             Requested size: 135.89174pt x 135.34404pt.
+ [3 <./images/map_simple.png> <./images/map_star.png> <./images/equations.png> 
+<./images/equation_2.png>]
+Underfull \hbox (badness 10000) in alignment at lines 117--130
+[][][][][]
+ []
+
+<images/simple_150_1.png, id=38, 499.8675pt x 499.8675pt>
+File: images/simple_150_1.png Graphic file (type png)
+
+<use images/simple_150_1.png>
+Package pdftex.def Info: images/simple_150_1.png used on input line 140.
+(pdftex.def)             Requested size: 135.89174pt x 135.88893pt.
+
+<images/simple_150_2.png, id=39, 500.87125pt x 500.87125pt>
+File: images/simple_150_2.png Graphic file (type png)
+
+<use images/simple_150_2.png>
+Package pdftex.def Info: images/simple_150_2.png used on input line 141.
+(pdftex.def)             Requested size: 135.89174pt x 135.8943pt.
+
+<images/simple_150_3.png, id=40, 501.875pt x 500.87125pt>
+File: images/simple_150_3.png Graphic file (type png)
+
+<use images/simple_150_3.png>
+Package pdftex.def Info: images/simple_150_3.png used on input line 142.
+(pdftex.def)             Requested size: 135.89174pt x 135.61917pt.
+
+<images/simple_150_4.png, id=41, 501.875pt x 501.875pt>
+File: images/simple_150_4.png Graphic file (type png)
+
+<use images/simple_150_4.png>
+Package pdftex.def Info: images/simple_150_4.png used on input line 144.
+(pdftex.def)             Requested size: 135.89174pt x 135.89095pt.
+
+<images/simple_150_5.png, id=42, 500.87125pt x 502.87875pt>
+File: images/simple_150_5.png Graphic file (type png)
+
+<use images/simple_150_5.png>
+Package pdftex.def Info: images/simple_150_5.png used on input line 145.
+(pdftex.def)             Requested size: 135.89174pt x 136.43898pt.
+ [4 <./images/simple_1.png> <./images/simple_2.png> <./images/simple_3.png> <./
+images/simple_4.png> <./images/simple_5.png>]
+<images/star_150_1.png, id=46, 502.87875pt x 501.875pt>
+File: images/star_150_1.png Graphic file (type png)
+
+<use images/star_150_1.png>
+Package pdftex.def Info: images/star_150_1.png used on input line 160.
+(pdftex.def)             Requested size: 135.89174pt x 135.61526pt.
+
+<images/star_150_2.png, id=47, 501.875pt x 503.8825pt>
+File: images/star_150_2.png Graphic file (type png)
+
+<use images/star_150_2.png>
+Package pdftex.def Info: images/star_150_2.png used on input line 161.
+(pdftex.def)             Requested size: 135.89174pt x 136.43452pt.
+
+<images/star_150_3.png, id=48, 500.87125pt x 501.875pt>
+File: images/star_150_3.png Graphic file (type png)
+
+<use images/star_150_3.png>
+Package pdftex.def Info: images/star_150_3.png used on input line 162.
+(pdftex.def)             Requested size: 135.89174pt x 136.16664pt.
+
+<images/star_150_4.png, id=49, 500.87125pt x 499.8675pt>
+File: images/star_150_4.png Graphic file (type png)
+
+<use images/star_150_4.png>
+Package pdftex.def Info: images/star_150_4.png used on input line 164.
+(pdftex.def)             Requested size: 135.89174pt x 135.62198pt.
+
+<images/star_150_5.png, id=50, 499.8675pt x 500.87125pt>
+File: images/star_150_5.png Graphic file (type png)
+
+<use images/star_150_5.png>
+Package pdftex.def Info: images/star_150_5.png used on input line 165.
+(pdftex.def)             Requested size: 135.89174pt x 136.1618pt.
+ [5 <./images/star_1.png> <./images/star_2.png> <./images/star_3.png> <./images
+/star_4.png> <./images/star_5.png>] [6 <./images/simple_150_1.png> <./images/si
+mple_150_2.png> <./images/simple_150_3.png> <./images/simple_150_4.png> <./imag
+es/simple_150_5.png>]
+<images/simple_40v_20p.png, id=58, 503.8825pt x 501.875pt>
+File: images/simple_40v_20p.png Graphic file (type png)
+
+<use images/simple_40v_20p.png>
+Package pdftex.def Info: images/simple_40v_20p.png used on input line 197.
+(pdftex.def)             Requested size: 135.89174pt x 135.34723pt.
+
+<images/simple_40v_40p.png, id=59, 504.88625pt x 524.96124pt>
+File: images/simple_40v_40p.png Graphic file (type png)
+
+<use images/simple_40v_40p.png>
+Package pdftex.def Info: images/simple_40v_40p.png used on input line 198.
+(pdftex.def)             Requested size: 135.89174pt x 141.29285pt.
+
+<images/simple_40v_60p.png, id=60, 500.87125pt x 501.875pt>
+File: images/simple_40v_60p.png Graphic file (type png)
+
+<use images/simple_40v_60p.png>
+Package pdftex.def Info: images/simple_40v_60p.png used on input line 199.
+(pdftex.def)             Requested size: 135.89174pt x 136.16664pt.
+
+<images/simple_40v_80p.png, id=61, 498.86375pt x 500.87125pt>
+File: images/simple_40v_80p.png Graphic file (type png)
+
+<use images/simple_40v_80p.png>
+Package pdftex.def Info: images/simple_40v_80p.png used on input line 201.
+(pdftex.def)             Requested size: 135.89174pt x 136.43694pt.
+
+<images/simple_40v_100p.png, id=62, 498.86375pt x 501.875pt>
+File: images/simple_40v_100p.png Graphic file (type png)
+
+<use images/simple_40v_100p.png>
+Package pdftex.def Info: images/simple_40v_100p.png used on input line 202.
+(pdftex.def)             Requested size: 135.89174pt x 136.71036pt.
+
+<images/star_40v_20p.png, id=63, 510.90875pt x 526.96875pt>
+File: images/star_40v_20p.png Graphic file (type png)
+
+<use images/star_40v_20p.png>
+Package pdftex.def Info: images/star_40v_20p.png used on input line 210.
+(pdftex.def)             Requested size: 135.89174pt x 140.16066pt.
+
+<images/star_40v_40p.png, id=64, 500.87125pt x 500.87125pt>
+File: images/star_40v_40p.png Graphic file (type png)
+
+<use images/star_40v_40p.png>
+Package pdftex.def Info: images/star_40v_40p.png used on input line 211.
+(pdftex.def)             Requested size: 135.89174pt x 135.8943pt.
+
+<images/star_40v_60p.png, id=65, 499.8675pt x 499.8675pt>
+File: images/star_40v_60p.png Graphic file (type png)
+
+<use images/star_40v_60p.png>
+Package pdftex.def Info: images/star_40v_60p.png used on input line 212.
+(pdftex.def)             Requested size: 135.89174pt x 135.88893pt.
+
+<images/star_40v_80p.png, id=66, 499.8675pt x 520.94624pt>
+File: images/star_40v_80p.png Graphic file (type png)
+
+<use images/star_40v_80p.png>
+Package pdftex.def Info: images/star_40v_80p.png used on input line 214.
+(pdftex.def)             Requested size: 135.89174pt x 141.61919pt.
+
+<images/star_40v_100p.png, id=67, 495.8525pt x 504.88625pt>
+File: images/star_40v_100p.png Graphic file (type png)
+
+<use images/star_40v_100p.png>
+Package pdftex.def Info: images/star_40v_100p.png used on input line 215.
+(pdftex.def)             Requested size: 135.89174pt x 138.36264pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in alignment at lines 247--258
+[][][][][]
+ []
+
+[7 <./images/star_150_1.png> <./images/star_150_2.png> <./images/star_150_3.png
+> <./images/star_150_4.png> <./images/star_150_5.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8 <./images/simple_40v_20p.png> <./images/simple_40v_40p.png> <./images/simple
+_40v_60p.png> <./images/simple_40v_80p.png> <./images/simple_40v_100p.png>]
+[9 <./images/star_40v_20p.png> <./images/star_40v_40p.png> <./images/star_40v_6
+0p.png> <./images/star_40v_80p.png> <./images/star_40v_100p.png>] [10]
+(./writeup.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4244 strings out of 494697
+ 64332 string characters out of 3169948
+ 141423 words of memory out of 3000000
+ 7390 multiletter control sequences out of 15000+200000
+ 11068 words of font info for 40 fonts, out of 3000000 for 9000
+ 179 hyphenation exceptions out of 8191
+ 44i,10n,45p,1125b,364s stack positions out of 5000i,500n,10000p,200000b,50000s
+</opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmbx10.pf
+b></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmbx12.pf
+b></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmmi10.pf
+b></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+</opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+/opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></
+opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></op
+t/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on writeup.pdf (11 pages, 347368 bytes).
+PDF statistics:
+ 111 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 176 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,14 @@
+\select@language {english}
+\contentsline {section}{\numberline {0.1}Project Description}{2}
+\contentsline {section}{\numberline {0.2}Discussion and Experiments}{2}
+\contentsline {subsection}{\numberline {0.2.1}Interface}{2}
+\contentsline {subsection}{\numberline {0.2.2}Observations}{2}
+\contentsline {subsection}{\numberline {0.2.3}Particle Filter}{4}
+\contentsline {subsection}{\numberline {0.2.4}Implementation Details}{6}
+\contentsline {subsection}{\numberline {0.2.5}Experiments}{7}
+\contentsline {subsubsection}{Results}{7}
+\contentsline {subsubsection}{Changing Visibility Range}{7}
+\contentsline {subsubsection}{Changing Density of Landmarks}{8}
+\contentsline {subsubsection}{In which cases does the algorithm work better?}{8}
+\contentsline {subsubsection}{Ideas on how the algorithm can be improved?}{8}
+\contentsline {subsubsection}{What if the environment contained obstacles?}{9}

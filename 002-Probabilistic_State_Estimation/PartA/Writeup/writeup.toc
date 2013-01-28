@@ -1,0 +1,12 @@
+\select@language {english}
+\contentsline {section}{\numberline {0.1}Project Description}{2}
+\contentsline {section}{\numberline {0.2}Implementation}{2}
+\contentsline {section}{\numberline {0.3}Questions}{2}
+\contentsline {subsection}{\numberline {0.3.1}Question 1}{2}
+\contentsline {subsection}{\numberline {0.3.2}Question 2}{2}
+\contentsline {subsubsection}{2a - Manual}{2}
+\contentsline {subsubsection}{2a - Inference Algorithm Approximation and Comparisons}{2}
+\contentsline {subsubsection}{2b - Manual}{3}
+\contentsline {subsubsection}{2b - Inference Algorithm Approximation and Comparisons}{4}
+\contentsline {subsection}{\numberline {0.3.3}Question 3}{4}
+\contentsline {subsection}{\numberline {0.3.4}Question 4}{5}
