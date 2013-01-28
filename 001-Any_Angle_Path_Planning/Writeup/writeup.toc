@@ -1,0 +1,15 @@
+\select@language {english}
+\contentsline {section}{\numberline {0.1}Project Description}{2}
+\contentsline {section}{\numberline {0.2}Implementation}{2}
+\contentsline {subsection}{\numberline {0.2.1}Graph Setup}{2}
+\contentsline {subsection}{\numberline {0.2.2}A*}{2}
+\contentsline {subsection}{\numberline {0.2.3}Theta*}{3}
+\contentsline {subsection}{\numberline {0.2.4}Visibility Graph}{4}
+\contentsline {section}{\numberline {0.3}Results and Discussion}{5}
+\contentsline {subsection}{\numberline {0.3.1}Original A* and Theta*}{5}
+\contentsline {subsection}{\numberline {0.3.2}Optimized A* and Theta*}{5}
+\contentsline {subsection}{\numberline {0.3.3}Comparison between old and new implementation results}{6}
+\contentsline {subsection}{\numberline {0.3.4}Visibility Graph}{6}
+\contentsline {section}{\numberline {0.4}A* heuristic vs Theta* heuristic}{6}
+\contentsline {section}{\numberline {0.5}Explain why A* with the h-values from Equation 1 is guaranteed to find shortest grid paths}{7}
+\contentsline {section}{\numberline {0.6}Admissibility vs Monotonicity}{7}
